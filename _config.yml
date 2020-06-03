@@ -3,10 +3,10 @@
 
 title: Aviator
 description: Jekyll template for API documentation.
-url: https://takagotch.github.io/page21/
+url: https://takagotch.github.io/page21
 google_analytics_key:
 permalink: pretty
-baseurl:
+baseurl: https://takagotch.github.io/page21
 
 # -----
 # Build
